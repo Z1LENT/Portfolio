@@ -1,3 +1,3 @@
 # *Starlitseas*
 
-<img src="Image\4fwBKb.png" width="50%"/>
+<img src="Image\4fwBKb.png" width="100%"/>
