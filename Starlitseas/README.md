@@ -1,3 +1,3 @@
 # *Starlitseas*
 
-<img src="Images\image0.gif" width="100%"/>
+<img src="Images\imageO.gif" width="100%"/>
