@@ -33,11 +33,11 @@ Team: 3 Programmers and 3 Artists
 
 <table>
   <tr>
-    <td width="50%"><img src="Images\4fwBKb.png" /></td>
-    <td width="50%"><img src="Images\klxR34.png" /></td>
+    <td width="50%"><img src="Images\7KPOTY.png" /></td>
+    <td width="50%"><img src="Images\BPXcak.png" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="Images\pqfrqE.png" /></td>
-    <td width="50%"><img src="Images\y71sQY.png" /></td>
+    <td width="50%"><img src="Images\uruFtM.png" /></td>
+    <td width="50%"><img src="Images\TOeunB.png" /></td>
   </tr>
 </table>
