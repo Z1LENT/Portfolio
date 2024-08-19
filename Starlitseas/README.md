@@ -1,4 +1,4 @@
-# *Starlitseas*
+# *Starlit Seas*
 
 <img src="Image\4fwBKb.png" width="100%"/>
 
