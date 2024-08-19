@@ -24,7 +24,7 @@ Team: 4 Programmers and 3 Artists
 
 ---
 
-## [***2 The Pods***](2 The Pods#2-the-pods) ← Click here for more info!
+## [***2 The Pods***](2-The-Pods#2-the-pods) ← Click here for more info!
 
 Developed: *2023 November - 2024 Januari*  
 Engine: Unity  
