@@ -26,9 +26,9 @@ Team: 4 Programmers and 3 Artists
 
 ## [***2 The Pods***](2-The-Pods#2-the-pods) ← Click here for more info!
 
-Developed: *2023 November - 2024 Januari*  
+Developed: *2023 November - 2024 January*  
 Engine: Unity  
-Genré: Platformer, Puzzle, 2D  
+Genré: Couch co-op platformer, Puzzle, 2D  
 Team: 3 Programmers and 3 Artists
 
 <table>
