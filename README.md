@@ -6,9 +6,9 @@ this page contains a preview of all my projects, click the name of the project t
 
 ## [***Starlitseas***](Starlitseas#starlitseas) ← Click here for more info!
 
-Developed: *2024 April - 2024 June*
-Engine: Unreal Engine
-Genré: Action platformer, Single player, 3D, fantasy
+Developed: *2024 April - 2024 June*  
+Engine: Unreal Engine  
+Genré: Action platformer, Single player, 3D, fantasy  
 Team: 4 Programmers and 3 Artists
 
 <table>
