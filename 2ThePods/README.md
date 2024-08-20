@@ -6,7 +6,7 @@
 
 ## *A brief game description*
 
-**Starlit Seas** is an enchanting adventure platformer that follows the journey of a deceased marine biologist on her path to heaven. Guided by the very whales she once devoted her life to protecting, she goes on a transcendent journey to the ethereal realms above.
+**2 The Pods** is an couch co-op platformer which is taking place in a space station about to blow up, you and your friend are stuck and need to make your way to the evacuation pods as soon as possible. One player controls a little astronaut, the other player moves modules around to create a path for the first player. The astronaut has an oxygen gauge that runs down, inciting the players to hurry. There are also a number of deadly traps strewn across the modules for the astronaut to avoid. 
 
 ---
 
