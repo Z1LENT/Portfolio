@@ -16,6 +16,6 @@ Below is a summary of my code written to this game, keep in mind that this is a 
 
 ---
 
-## *Portal*
+## *Dynamic Portal*
 
-To start off, 
+To start off, I wanted to try and make something that was designed to respond to the player's movement, providing an interactive and visually compelling experience. I came across this [tutorial](https://www.youtube.com/watch?v=a7NQOMpuMKk) about a interactive tunnel, containing a niagara effect and particles which with some math and blueprints could read the players whereabouts and connect an tunnel.
