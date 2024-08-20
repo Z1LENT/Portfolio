@@ -1,6 +1,6 @@
 # *2 The Pods*
 
-<img src="Image\4fwBKb.png" width="100%"/>
+<img src="Image\7KPOTY.png" width="100%"/>
 
 [Itch.io page](https://yrgo-game-creator.itch.io/starlit-seas)  
 
