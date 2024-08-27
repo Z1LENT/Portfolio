@@ -41,7 +41,8 @@ To start off, I wanted to try and make something that was designed to respond to
 
 <table>
   <tr>
-    <td width="50%" valign="top" text-align="left"><img src="Images\DustyDeliveries_Level.png"/></td>
-    <td><img src="Images\DustyDeliveries_Spline.gif"/> <i>The meshes spawn when the spline is extended </td>
+    <td width="50%" valign="top" text-align="left"><img src="Images\Fireworks.gif"/></td>
+    <td><img src="Images\Shoal of fish.gif"/> <i> </td> 
+    <td><img src="Images\MagicParticles.gif"/></td>  
   </tr>
 </table>
