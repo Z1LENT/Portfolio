@@ -26,7 +26,7 @@ To start off, I wanted to try and make something that was designed to respond to
     <td ><img src="Image\OutsidePortal.gif" width="75%"/> <br> <i>Outside the portal</td>
   </tr>
     <tr>
-     <td width="30%" valign="top" text-align="left"> Enabling the <b> Lateral Stabilizer </b> shows significant improvement, but it still has major flaws. <br><br> It keeps going off course and also tipping over due to the back hovers still having contact with the ground for a split second after jumping, causing the boat to pitch down.   </td>
+     <td width="30%" valign="top" text-align="left"> Inside the portal is a particle field were it transitions from slowmotion to realtime speed to get a sort of warp feeling. <br><br> </td>
     <td ><img src="Image\InsidePortal.gif" width="75%"/><br> <i>Inside the portal</td>
 </table>
 
