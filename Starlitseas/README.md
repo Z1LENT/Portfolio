@@ -35,5 +35,13 @@ To start off, I wanted to try and make something that was designed to respond to
 [Dynamical Portal](https://blueprintue.com/blueprint/he4fnv_z/)   
 [Attraction Force](https://blueprintue.com/blueprint/1_njixs9/)
 
+---
+
 ## *Juice*
 
+<table>
+  <tr>
+    <td width="50%" valign="top" text-align="left"><img src="Images\DustyDeliveries_Level.png"/></td>
+    <td><img src="Images\DustyDeliveries_Spline.gif"/> <i>The meshes spawn when the spline is extended </td>
+  </tr>
+</table>
