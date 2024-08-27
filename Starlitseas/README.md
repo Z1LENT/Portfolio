@@ -23,7 +23,8 @@ To start off, I wanted to try and make something that was designed to respond to
 <table>
   <tr>
      <td width="30%" valign="top" text-align="left"> This shows the boat travelling forward without any stabilizing effects. <br><br> The boat is hovering above ground being pushed forward by the thrusters and sideways by gravity </td>
-    <td ><img src="Image\OutsidePortal.gif" width="50%"/> <img src="Image\NormalVortex.gif" width="50%"/> <br> <i>Outside the portal</td>
+    <td ><img src="Image\OutsidePortal.gif" width="50%"/> <br> <i>Outside the portal</td>
+    <td ><img src="Image\OutsidePortal.gif" width="50%"/> <br> <i>Outside the portal</td>
   </tr>
     <tr>
      <td width="30%" valign="top" text-align="left"> Enabling the <b> Lateral Stabilizer </b> shows significant improvement, but it still has major flaws. <br><br> It keeps going off course and also tipping over due to the back hovers still having contact with the ground for a split second after jumping, causing the boat to pitch down.   </td>
