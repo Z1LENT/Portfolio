@@ -30,3 +30,6 @@ To start off, I wanted to try and make something that was designed to respond to
     <td ><img src="Image\InsidePortal.gif" width="75%"/><br> <i>Inside the portal</td>
 </table>
 
+### Links to blueprints
+
+[Dynamical Portal](https://blueprintue.com/blueprint/he4fnv_z/) 
