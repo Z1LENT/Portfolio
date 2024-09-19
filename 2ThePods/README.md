@@ -18,4 +18,12 @@ Below is a summary of my code written to this game, keep in mind that this is a 
 
 ## *Tutorial map*
 
-
+<table>
+  <tr>
+     <td width="30%" valign="top" text-align="left"> <br><br> </td>
+    <td ><img src="Image\Tutorial.gif" width="75%"/> <br> <i></td>
+  </tr>
+    <tr>
+     <td width="30%" valign="top" text-align="left"> <br><br> </td>
+    <td ><img src="Image\Tutorial2.gif" width="75%"/><br> <i></td>
+</table>
