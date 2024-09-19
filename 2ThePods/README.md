@@ -1,6 +1,6 @@
 # *2 The Pods*
 
-<img src="Image\7KPOTY.png" width="100%"/>
+<img src="Image\2ThePodsMain.png" width="100%"/>
 
 [Itch.io page](https://yrgo-game-creator.itch.io/starlit-seas)  
 
@@ -16,4 +16,4 @@ Below is a summary of my code written to this game, keep in mind that this is a 
 
 ---
 
-
+Tutorial map
