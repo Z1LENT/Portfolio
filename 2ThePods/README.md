@@ -18,6 +18,8 @@ Below is a summary of my code written to this game, keep in mind that this is a 
 
 ## *Tutorial map*
 
+This part is not done yet
+
 <table>
   <tr>
      <td width="30%" valign="top" text-align="left"> <br><br> </td>
