@@ -1,8 +1,11 @@
-# Oscar Pipino Löfvendahl Portfolio
+# Welcome!
 
-this page contains a preview of all my projects, click the name of the project to see my contributions!
+My name is Oscar and this is my living portfolio. I update and trim this as needed when I complete new projects and feel I've outgrown old ones.
 
-# Games
+Each major project has a link to its own page where you can read more and see code examples of my primary responsibilities for that project.
+
+
+# Games I've worked on
 
 ## [***Starlit Seas***](Starlitseas#starlitseas) ← Click here for more info!
 
