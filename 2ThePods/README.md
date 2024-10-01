@@ -334,7 +334,7 @@ public class TextFader : MonoBehaviour
 ## Module drag/drop system
 
 The builder needed to be able to pick up an module and drag and drop it wherever they wanted, which is why I created a grid droparea formed like cubes for the modules to stick on to. 
-Now with a little bit of code, the builder could raycast it's way to find a module inside of this grid to either move or drop it somewhere else. The modules will also snap differently according to their pivot points since they all have different scales and shapes which we had to take in mind so the modules were not colliding with each other.
+Now with a little bit of code, the builder could raycast is way to find a module inside of this grid to either move or drop it somewhere else. The modules will also snap differently according to their pivot points since they all have different scales and shapes which we had to take in mind so the modules were not colliding with each other.
 
 <img src="Image\GridSystem.png" alt="Gif showing droparea for modules" width="75%"/>
 
