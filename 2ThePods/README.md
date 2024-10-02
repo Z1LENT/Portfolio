@@ -631,7 +631,7 @@ So the main menu was more or less pretty rushed since I kind of got thrown into 
 
 <details>
 
- <summary>levelMenu.cs</summary>
+ <summary>LevelMenu.cs</summary>
 
 ```csharp
 
@@ -666,6 +666,26 @@ public class LevelMenu : MonoBehaviour
 ```
  
 </details>
+
+
+
+## I also worked with
+
+<b>Camera size shift </b>
+
+Basically the camera can switch between different FOV, either you can watch from a builder perspective to easier move around modules or you can switch to player view so the camera zooms in and follows the players movement.
+
+<b>Level Design </b>
+
+I know it is not much to do for level design since it is actually meant for you as player to build your own, but I placed around everything on the maps and fixed all the colliders for the modules and the levels.
+
+<b> Level transition </b> 
+
+I created two hatches that open or closes which act like a loading screen.
+
+<img src="Image\Tutorial2.gif" alt="Gif showing start menu" width="75%"/>
+
+<i>Click the dropdown below for the full script.</i>
 
 <details>
 
@@ -720,22 +740,6 @@ public class MoveHatches : MonoBehaviour
 ```
  
 </details>
-
-## I also worked with
-
-<b>Camera size shift </b>
-
-Basically the camera can switch between different FOV, either you can watch from a builder perspective to easier move around modules or you can switch to player view so the camera zooms in and follows the players movement.
-
-<b>Level Design </b>
-
-I know it is not much to do for level design since it is actually meant for you as player to build your own, but I placed around everything on the maps and fixed all the colliders for the modules and the levels.
-
-<b> Level transition </b> 
-
-I created two hatches that open or closes which act like a loading screen.
-
-<img src="Image\Tutorial2.gif" alt="Gif showing start menu" width="75%"/>
 
 ---
 
